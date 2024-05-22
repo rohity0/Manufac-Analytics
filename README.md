@@ -21,8 +21,7 @@ Runs the json server
 runs at http://localhost:9000/data
 
 ### `Average of Crop`  
-<img src="https://i.ibb.co/1G40s33/Screenshot-570.png" alt="Screenshot-570" border="0" width=100%>
+[![Screenshot-570.png](https://i.postimg.cc/6pXJNZn0/Screenshot-570.png)](https://postimg.cc/ZCVD8CfB)
 
 ### `Min & Max of Crop year based`
 [![Screenshot-571.png](https://i.postimg.cc/vTZFCwnd/Screenshot-571.png)](https://postimg.cc/7GdWTcXB)
-<img src="https://i.ibb.co/nCZ5vt5/Screenshot-571.png" alt="Screenshot-571" border="0">
