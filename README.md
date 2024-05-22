@@ -21,6 +21,6 @@ Runs the json server
 runs at http://localhost:9000/data
 
 ### `Average of Crop`
-![alt text](https://ibb.co/GQrdsXX)
+https://ibb.co/GQrdsXX
 
 ### `Min & Max of Crop year based`
