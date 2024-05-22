@@ -24,3 +24,4 @@ runs at http://localhost:9000/data
 <img src="https://i.ibb.co/1G40s33/Screenshot-570.png" alt="Screenshot-570" border="0" width=100%>
 
 ### `Min & Max of Crop year based`
+<img src="https://i.ibb.co/nCZ5vt5/Screenshot-571.png" alt="Screenshot-571" border="0">
